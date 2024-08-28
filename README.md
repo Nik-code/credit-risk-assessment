@@ -80,4 +80,4 @@ The project includes several visualizations:
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your proposed changes.
 
 ## License
-[Include your chosen license here]
+NO License
